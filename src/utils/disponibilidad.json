@@ -1,0 +1,28 @@
+{
+  "salones": [
+    {
+      "id": 1,
+      "nombre": "Salón 101",
+      "horarios": [
+        {
+          "bloque": "Bloque 1",
+          "curso": "Química",
+          "profesor": "Juan López",
+          "rol": "Docente"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Salon 201",
+      "horarios": [
+        {
+          "bloque": "Bloque 1",
+          "curso": "",
+          "profesor": "",
+          "rol": ""
+        }
+      ]
+    }
+  ]
+}
